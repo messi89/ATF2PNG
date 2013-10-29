@@ -1,7 +1,7 @@
 ATF2PNG
 =======
 
-ATF2PNGT is a tool for export images (PNG files with transparency) from ATF textures.<br> 
+ATF2PNGT is a tool using Starling for export images (PNG files with transparency) from ATF textures.<br> 
 
 How to use it:<br>
 1- Launch the application (Flash Builder: CTRL+ F11 / FlashDev: CTRL+ ENTER).<br>
